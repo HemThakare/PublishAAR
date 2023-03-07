@@ -4,7 +4,6 @@
     <groupId>com.sdk.privatesdk</groupId>
     <artifactId>final</artifactId>
     <version>1.0</version>
-    <packaging>aar</packaging>
     <extensions>true</extensions>
     <dependencies/>
 </project>
