@@ -4,6 +4,6 @@
     <groupId>com.stylitics.styliticsdata</groupId>
     <artifactId>styliticsdata</artifactId>
     <version>1.0</version>
-    <extensions>true</extensions>
+    
     <dependencies/>
 </project>
